@@ -1,17 +1,29 @@
 [
   {
-    "subject": "Chem",
-    "courseCode": "CM2131",
+    "subject": "Physics",
+    "courseCode": "PC2131",
     "items": [
       {
         "type": "homework",
-        "content": "In-class worksheet Part 1 (pg1-2)",
-        "dueDate": "2026-01-19T11:30:00"
+        "content": "Tracker Assignment (Cart)",
+        "dueDate": "2026-01-26T22:00:00"
       },
       {
         "type": "homework",
-        "content": "Workbook WS 1.1",
-        "dueDate": "2026-01-19T11:30:00"
+        "content": "Tracker Assignment (Falling Object)",
+        "dueDate": "2026-01-19T22:00:00",
+        "optional": true
+      }
+    ]
+  },
+  {
+    "subject": "Hum",
+    "courseCode": "HU2131",
+    "items": [
+      {
+        "type": "homework",
+        "content": "SLS Package on Globalisation",
+        "dueDate": "2026-01-26T21:00:00"
       }
     ]
   }
