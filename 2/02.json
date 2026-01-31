@@ -1,29 +1,34 @@
 [
   {
-    "subject": "Physics",
-    "courseCode": "PC2131",
+    "subject": "Bio",
+    "courseCode": "BL2131",
     "items": [
       {
         "type": "homework",
-        "content": "Tracker Assignment (Cart)",
-        "dueDate": "2026-01-26T22:00:00"
+        "content": "Review WS 1",
+        "dueDate": "2026-02-07T09:00:00"
       },
       {
         "type": "homework",
-        "content": "Tracker Assignment (Falling Object)",
-        "dueDate": "2026-01-19T22:00:00",
+        "content": "Summary Table of Digestion in Lesson Booklet",
+        "dueDate": "2026-02-07T09:00:00",
         "optional": true
       }
     ]
   },
   {
-    "subject": "Hum",
-    "courseCode": "HU2131",
+    "subject": "Math",
+    "courseCode": "MA2133",
     "items": [
       {
         "type": "homework",
-        "content": "SLS Package on Globalisation",
-        "dueDate": "2026-01-26T21:00:00"
+        "content": "Assignment 2",
+        "dueDate": "2026-02-03T12:00:00"
+      },
+      {
+        "type": "info",
+        "content": "Graded Task 1",
+        "dueDate":"2026-02-06T11:30:00"
       }
     ]
   }
